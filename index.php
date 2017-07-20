@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Welcome to the end of the demonstration.</h1><h3>Success/h3>";
+echo "<h1>Welcome to the end of the demonstration.</h1><h3>Success</h3>";
 echo "<p>Play around</p>";
 echo "<p>access the <a href='https://ose-cluster-master.stack.maskedadmins.com:8443/console/'>Openshift Container Platform console</a></p>";
 echo "<p>access the <a href='https://workshopper-redhat-lab.ose.maskedadmins.com:8444'>OCP workshops</a></p>";
