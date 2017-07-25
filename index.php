@@ -2,7 +2,7 @@
 
 echo "<h1>Welcome to the start of the demonstration.</h1><h3>Success</h3>";
 echo "<p>Play around</p>";
-echo "<p>access the <a href='https://compute4.maskedadmins.com:8449'>Demo Ansible Tower user/pass guest/redhat123</a></p>";
+echo "<p>access the <a href='https://compute4.maskedadmins.com:8449'>Demo Ansible Tower<br>auditor user/pass guest/redhat123 netops netops/redhat123 developers dev/redhat123</a></p>";
 echo "<p>access the <a href='https://ose-cluster-master.stack.maskedadmins.com:8443/console/'>Openshift Container Platform console</a></p>";
 echo "<p>access the <a href='https://workshopper-redhat-lab.ose.maskedadmins.com:8444'>OCP workshops</a></p>";
 echo "<p>access the <a href='https://compute4.maskedadmins.com:8445'>Redhat Openstack 10</a></p>";
