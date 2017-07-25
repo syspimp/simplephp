@@ -1,11 +1,12 @@
 <?php
 
-echo "<h1>Welcome to the end of the demonstration.</h1><h3>Success</h3>";
+echo "<h1>Welcome to the start of the demonstration.</h1><h3>Success</h3>";
 echo "<p>Play around</p>";
+echo "<p>access the <a href='https://compute4.maskedadmins.com:8449'>Demo Ansible Tower user/pass guest/redhat123</a></p>";
 echo "<p>access the <a href='https://ose-cluster-master.stack.maskedadmins.com:8443/console/'>Openshift Container Platform console</a></p>";
 echo "<p>access the <a href='https://workshopper-redhat-lab.ose.maskedadmins.com:8444'>OCP workshops</a></p>";
 echo "<p>access the <a href='https://compute4.maskedadmins.com:8445'>Redhat Openstack 10</a></p>";
-echo "<p>access the <a href='https://tower.stack.maskedadmins.com:8446'>Ansible Tower console</a></p>";
+echo "<p>access the <a href='https://tower.stack.maskedadmins.com:8446'>New Ansible Tower console</a></p>";
 echo "<p>access the <a href='https://cloudforms.stack.maskedadmins.com:8447'>Cloudforms console</a></p>";
 echo "<p>access the <a href='https://satellite.stack.maskedadmins.com:8448'>Satellite console</a></p>";
 echo "<p>access the <a href='https://rzp12552.live.dynatrace.com'>Dynatrace Monitoring</a></p>";
